@@ -2,8 +2,15 @@
 Junior PHP back-end Developer with 2 years of commertial experience. 
 
 ### WORK EXPERIENCE	
-*   consultant in The Federal Service for State Statistics (Rosstat)
-*   Junior PHP back-end Developer in Russian Foreign Trade Academy
+# Сonsultant in The Federal Service for State Statistics (Rosstat)
+*   Integration of primary statistical information from each region into a single whole for the country and further calculation of analytical indicators
+*   Development of methodologies for calculating statistical indicators
+*   Сreation of technical specifications for calculation software
+
+# Junior PHP back-end Developer in Russian Foreign Trade Academy
+*   Creating scripts to integrate various services with each other via API
+*   Development of new modules organization’s web portal and modification of existing ones
+*   Ensuring synchronization of users between services (accounting database, Active Directory, internal web portal). My personal achievement: integrated user management in the gate access control system into general synchronization
   
 
 ## 🛠 Technical Stack
@@ -15,7 +22,6 @@ Junior PHP back-end Developer with 2 years of commertial experience.
 *   REST, SOAP
 *   bash
 *   RabbitMQ
-*   S3
 *   GitHub/GitLab
 <!--
 **TitovaA/TitovaA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
