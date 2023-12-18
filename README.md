@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi, I`m Anastasiya 👋
+Junior PHP back-end Developer with 2 years of commertial experience. 
+
 
 <!--
 **TitovaA/TitovaA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
