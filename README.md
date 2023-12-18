@@ -1,16 +1,18 @@
 # Hi, I`m Anastasiya 👋
-Junior PHP back-end Developer with 2 years of commertial experience. 
+Junior PHP back-end Developer with 1,5 years of commertial experience. 
 
-## WORK EXPERIENCE	
-### Сonsultant in The Federal Service for State Statistics (Rosstat)
+## WORK EXPERIENCE
+
+### May 2021 - Present: Junior PHP back-end Developer in Russian Foreign Trade Academy ()
+*   Creating scripts to integrate various services with each other via API
+*   Development of new modules organization’s web portal and modification of existing ones
+*   Ensuring synchronization of users between services (accounting database, Active Directory, internal web portal). My personal achievement: integrated user management in the gate access control system into general synchronization
+### May 2019 - May 2021: Сonsultant in The Federal Service for State Statistics (Rosstat)
 *   Integration of primary statistical information from each region into a single whole for the country and further calculation of analytical indicators
 *   Development of methodologies for calculating statistical indicators
 *   Сreation of technical specifications for calculation software
 
-### Junior PHP back-end Developer in Russian Foreign Trade Academy
-*   Creating scripts to integrate various services with each other via API
-*   Development of new modules organization’s web portal and modification of existing ones
-*   Ensuring synchronization of users between services (accounting database, Active Directory, internal web portal). My personal achievement: integrated user management in the gate access control system into general synchronization
+
   
 
 ## 🛠 Technical Stack
