@@ -1,9 +1,10 @@
 # Hi, I`m Anastasiya 👋
-Junior PHP back-end Developer with 1,5 years of commertial experience. 
+I live in Moscow. I am 34 years old. 
+I am a Junior PHP back-end Developer with 1,5 years of commercial experience. 
 
 ## WORK EXPERIENCE
 
-### May 2021 - Present: Junior PHP back-end Developer in Russian Foreign Trade Academy ()
+### May 2021 - Present: Junior PHP back-end Developer in Russian Foreign Trade Academy.
 *   Creating scripts to integrate various services with each other via API
 *   Development of new modules company’s web portal and modification of existing ones
 *   Ensuring synchronization of users between services (accounting database, Active Directory, internal web portal). My personal achievement: integrated user management in the gate access control system into general synchronization
@@ -25,6 +26,10 @@ Junior PHP back-end Developer with 1,5 years of commertial experience.
 *   bash
 *   RabbitMQ
 *   GitHub/GitLab
+
+   <p align='center'>
+   📫 My email: <a href='mailto:atitova.main@gmail.com '>atitova.main@gmail.com </a>
+    </p>
 <!--
 **TitovaA/TitovaA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
